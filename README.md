@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Harshit.</h2>
+<h2 align="left">My name is Harshit Rajpurohit.</h2>
 
 ###
 

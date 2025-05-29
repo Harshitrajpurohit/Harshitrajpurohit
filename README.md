@@ -61,7 +61,9 @@
     <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="40" alt="react logo"  />
     <img width="12" />
-  <img src="https://github.com/user-attachments/assets/8ed76829-04ee-4489-b9e4-761053c10a90" height="40" alt="next.js logo"  />
+  <img src="https://teamraft.com/wp-content/uploads/nextjs.jpg" height="40" alt="next.js logo"  />
+    <img width="12" />
+  <img src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" height="40" alt="express.js logo"  />
     <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40" alt="rstudio logo"  />
 </div>

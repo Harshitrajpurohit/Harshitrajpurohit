@@ -26,6 +26,9 @@ Hi there! I'm <b>Harshit Rajpurohit</b>, a passionate and curious Computer Scien
 ## 🌐 Connect with Me
 
 <p align="center" >
+  <a href="https://harshit-rajpurohit.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/16509/16509786.png?ga=GA1.1.1280348284.1736662839&semt=ais_hybrid" width="52" height="40" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/harshit-rajpurohit/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>

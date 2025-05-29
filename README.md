@@ -27,16 +27,16 @@ Hi there! I'm <b>Harshit Rajpurohit</b>, a passionate and curious Computer Scien
 
 <p align="center" >
   <a href="https://harshit-rajpurohit.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/16509/16509786.png?ga=GA1.1.1280348284.1736662839&semt=ais_hybrid" width="52" height="40" alt="Portfolio" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYbP-248zDkKcJG_swsx0pK2Hhe8hwE0fHQ&s" width="40" height="40" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/harshit-rajpurohit/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/HarshitRajpur14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/harshit_rajpurohit293/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 

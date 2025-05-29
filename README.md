@@ -21,6 +21,7 @@ Hi there! I'm <b>Harshit Rajpurohit</b>, a passionate and curious Computer Scien
 <b>Let's Connect:</b> I'm open to collaborations, internships, and any project that involves innovation, analytics, and learning.
 </p>
 
+<br/>
 
 ## 🌐 Connect with Me
 

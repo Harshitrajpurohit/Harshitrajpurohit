@@ -28,13 +28,13 @@ Hi there! I'm <b>Harshit Rajpurohit</b>, a passionate and curious Computer Scien
 <p align="center" >
   <a href="https://harshit-rajpurohit.vercel.app/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYbP-248zDkKcJG_swsx0pK2Hhe8hwE0fHQ&s" width="40" height="40" alt="Portfolio" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshit-rajpurohit/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/HarshitRajpur14" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/harshit_rajpurohit293/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>

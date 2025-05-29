@@ -3,15 +3,22 @@
 </h1>
 
 
-## 🧑‍💻 About Me
+## About Me
 
 <p align="left">
-👋 Hello! I'm <b>Harshit Rajpurohit</b>, currently pursuing <b>B.Tech in Computer Science Engineering</b> at <b>Lovely Professional University</b>. <br><br>
-🔍 <b>Objective:</b> To leverage data analysis techniques and uncover hidden patterns, trends, and correlations to drive informed decisions across industries. <br><br>
-📊 <b>Focus Area:</b> Passionate about data visualization and currently honing my skills with tools like <b>Excel</b>, <b>Python</b>, <b>Power BI</b>, and <b>Tableau</b>.<br><br>
-💼 <b>Experience:</b> Actively working on personal and academic projects. Eager to contribute to real-world projects through internships and collaborations.<br><br>
-🌟 <b>Passion:</b> Data analysis isn't just a career—it's a calling. I'm driven by the power of insights that spark innovation, improvement, and impact.<br><br>
-🤝 <b>Let's Connect:</b> Open to networking, mentorship, and collaboration with professionals, students, and data enthusiasts.
+Hi there! I'm <b>Harshit Rajpurohit</b>, a passionate and curious Computer Science undergraduate at <b>Lovely Professional University</b>. With a strong foundation in both <b>Data Science</b> and <b>Full-Stack Web Development</b>, I thrive at the intersection of data and design.<br><br>
+
+<b>Objective:</b> I aim to transform complex data into actionable insights and build impactful web applications that solve real-world problems. Whether it's through dashboards or full-stack platforms, I’m driven by purpose and precision.<br><br>
+
+<b>My Core Strengths:</b><br>
+• <b>Data Analysis & Visualization:</b> Skilled in Python, R, Excel, Power BI, and Tableau. Projects like the <i>Delhi Zomato Analysis Dashboard</i> and <i>Global Suicide Trends</i> highlight my ability to interpret and present data effectively.<br>
+• <b>Web Development:</b> Experienced in the MERN stack, Express.js, and Next.js. I’ve built and deployed full-stack projects such as <i>WeBog</i> and <i>ChatME-AI</i> on platforms like Render and Vercel.<br><br>
+
+<b>Currently Learning:</b> Next.js, System Design, Advanced DSA, and modern AI frameworks.<br><br>
+
+<b>Fun Fact:</b> I sometimes build full-stack apps just to visualize my own data.<br><br>
+
+<b>Let's Connect:</b> I'm open to collaborations, internships, and any project that involves innovation, analytics, and learning.
 </p>
 
 

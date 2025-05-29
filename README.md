@@ -38,7 +38,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>     </a>&nbsp;&nbsp;
-  
   <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="Next.js" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
